@@ -39,9 +39,9 @@ halves = 2;
 weeks = 2;
 
 ## Answer 8
-strings.forEach(str) => {
+strings.forEach((str) => {
     finalString = strings + str;
-};
+});
 console.log(finalString);
 
 ## Answer 9 
